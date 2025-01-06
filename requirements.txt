@@ -5,3 +5,4 @@ bs4
 langchain-text-splitters
 sentence_transformers
 faiss-cpu
+streamlit
