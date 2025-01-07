@@ -11,7 +11,7 @@ On the left column it returns the answer based on context while on the right col
 *Steps to Replicate*
 
 create new python env
-`conda create -n myenv python=3.10`
+`conda create -n myenv python==3.10`
 
 install requirements
 `pip install -r requirements.txt`
