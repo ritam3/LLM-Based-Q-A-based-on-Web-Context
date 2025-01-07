@@ -1,6 +1,7 @@
 langchain
 ipykernel
 langchain-community
+langchain-ollama
 bs4
 langchain-text-splitters
 sentence_transformers
